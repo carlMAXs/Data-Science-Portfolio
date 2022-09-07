@@ -7,7 +7,7 @@ Repository containing portfolio of data science projects completed by me for sel
 
 - ### Machine Learning
 
-	- [Credit Card Fraud Detection](https://github.com/carlMAXs/Data-Science-Portfolio/blob/main/Fraud%20Detection%20with%20Supervised%20Learning.ipynb): A model that classifies credit card transactions to identify fraudulant behaivours. Contents include EDA, piplelines for data processing on an imbbalanced data, modeling with supervised learning, hyperparameter tunning with GridSearchCV, and ROC-AUC.
+	- [Credit Card Fraud Detection](https://github.com/carlMAXs/Data-Science-Portfolio/blob/main/Fraud%20Detection%20with%20Supervised%20Learning.ipynb): A model that classifies credit card transactions to identify fraudulant behaivours. Contents include EDA, piplelines for data processing on an imbalanced data, modeling with supervised learning, hyperparameter tunning with GridSearchCV, and ROC-AUC.
 
 	Tools: scikit-learn, Imb-learn, Pandas, Seaborn, Matplotlib,  
 
