@@ -1,5 +1,5 @@
 # Data Science Portfolio
-Repository containing portfolio of data science projects completed by me for self learning and personal interests. Presented in the form of Jupyter notebooks, and R markdown files.
+Repository containing portfolio of data science projects completed by me for self learning and personal interests. Presented in the form of Jupyter notebooks, R markdown files, and Alteryx files.
 
 #### My Kaggle portfolio is located [here](https://www.kaggle.com/carlkcheng).
 
