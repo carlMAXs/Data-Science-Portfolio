@@ -13,7 +13,7 @@ Repository containing portfolio of data science projects completed by me for sel
 
 - ### Data Analytics and Visualisation
 
-	- [BIXI Bike Sharing Revenue Estimation](): A workflow in Alteryx and Excel to analyse anaual revenue generated on bike leasing by BIXI.
+	- BIXI Bike Sharing Revenue Estimation: A workflow in Alteryx and Excel to analyse anaual revenue generated on bike leasing by BIXI.
 
 	Tools: Alteryx, Tableau, Microsoft Excel.
 
