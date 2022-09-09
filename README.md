@@ -9,12 +9,12 @@ Repository containing portfolio of data science projects completed by me for sel
 
 	- [Credit Card Fraud Detection](https://github.com/carlMAXs/Data-Science-Portfolio/blob/main/Fraud%20Detection%20with%20Supervised%20Learning.ipynb): A model that classifies credit card transactions to identify fraudulant behaivours. Contents include EDA, piplelines for data processing on an imbalanced data, modeling with supervised learning, hyperparameter tuning with GridSearchCV, and ROC-AUC.
 
-	Tools: scikit-learn, Imb-learn, Pandas, Seaborn, Matplotlib,  
+	Tools: scikit-learn, Imb-learn, Numpy, Pandas, Seaborn, Matplotlib.
 
 - ### Data Analytics and Visualisation
 
 	- [BIXI Bike Sharing Revenue Estimation](): A workflow in Alteryx and Excel to analyse anaual revenue generated on bike leasing by BIXI.
 
-	Tools: Alteryx, Microsoft Excel
+	Tools: Alteryx, Tableau, Microsoft Excel.
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at **carl.kaiyuan.cheng@outlook.com**
