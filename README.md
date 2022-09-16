@@ -12,7 +12,7 @@ Repository containing portfolio of data science projects completed by me for sel
 	Tools: scikit-learn, Imb-learn, Numpy, Pandas, Seaborn, Matplotlib.
 	
 - ### Database and SQL Qurey
-	- [Detection_of_suspicious_payment_transactions](https://github.com/carlMAXs/Data-Science-Portfolio/tree/main/Detection_of_suspicious_payment_transactions): A micro project focused on creating a database on MySQL local server and managing database on MySQL workbench, incorporating window function and aggregate functions into our queries to check for shady transactions. In order to enrich the table based on the current schema, I also created some synthetic data produced by Python scripts.
+	- [Detection of suspicious payment transactions](https://github.com/carlMAXs/Data-Science-Portfolio/tree/main/Detection_of_suspicious_payment_transactions): A micro project focused on creating a database on MySQL local server and managing database on MySQL workbench, incorporating window function and aggregate functions into our queries to check for shady transactions. In order to enrich the table based on the current schema, I also created some synthetic data produced by Python scripts.
 
 - ### Data Analytics and Visualisation
 
