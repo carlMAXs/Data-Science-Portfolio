@@ -14,12 +14,12 @@ Repository containing portfolio of data science projects completed by me for sel
 - ### Database and SQL Qurey
 	- [Detection of Suspicious Payment Transactions](https://github.com/carlMAXs/Data-Science-Portfolio/tree/main/Detection_of_suspicious_payment_transactions): A micro project focused on creating a database on MySQL local server and managing database on MySQL workbench, incorporating window function and aggregate functions into our queries to check for shady transactions. In order to enrich the table based on the current schema, I also created some synthetic data produced by Python scripts.
 	
-	Tools: SQL(Window function, Aggretate function, MySQL workbench), Python
+		Tools: SQL(Window function, Aggretate function, MySQL workbench), Python
 	
 - ### Data Analytics and Visualisation
 
 	- [BIXI Bike Sharing Revenue Estimation](https://github.com/carlMAXs/Data-Science-Portfolio/blob/main/BIXI%20Data%20analysis.yxmd): A workflow in Alteryx and Excel to analyse anaual revenue generated on bike leasing by BIXI.
 
-	Tools: Alteryx, Tableau, Microsoft Excel.
+		Tools: Alteryx, Tableau, Microsoft Excel.
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at **carl.kaiyuan.cheng@outlook.com**
